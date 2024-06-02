@@ -1,5 +1,7 @@
 # 🔖 Bookmarky - Bookmark Management System
 
+![Screenshot.png](images%2FScreenshot.png)
+
 ## Overview
 Bookmarky is a web application designed to manage and organize website bookmarks efficiently. It allows users to add, visit, and delete bookmarks with ease. 🌐
 
